@@ -4,8 +4,8 @@ end
 fido = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
+end
 
-# lib/person.rb
 class Person
   adele_goldberg = Person.new
   alan_kay = Person.new
